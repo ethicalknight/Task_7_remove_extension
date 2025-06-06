@@ -1,0 +1,1 @@
+# Task_7_remove_extension
