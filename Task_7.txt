@@ -1,0 +1,32 @@
+Task 7: Identify and Remove Suspicious Browser Extensions
+
+Browser Used: Google Chrome
+
+Date of Audit: 6th June 2025
+
+Total Extensions Installed: 12
+
+Suspicious Extensions Identified:
+1. Touch VPN
+   - Permissions: Can read and change all your data on the websites you visit
+   - Reason: Known to log data, inject ads, and sell user behavior for analytics. Reports of security concerns in user reviews.
+
+Actions Taken:
+- Removed “Touch VPN”
+- Restarted browser
+- Observed slight improvement in browser speed and reduction in unwanted ads
+
+How Malicious Extensions Can Harm Users:
+- Steal sensitive data such as passwords, credit card information, and cookies
+- Monitor browsing behavior and sell data to third parties
+- Inject malicious ads or redirect traffic to phishing/malware sites
+- Serve as a gateway for installing additional malware
+
+Conclusion:
+Routine checks for browser extensions help maintain user privacy, enhance performance, and reduce security risks.
+It is advisable to install only trusted and necessary extensions from verified developers.
+
+Recommendations:
+- Enable extension permission warnings
+- Avoid extensions with vague descriptions or very few reviews
+- Keep your browser and security software up to date
